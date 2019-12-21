@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Thumbnail from './Components/Thumbnail';
-import Score from './Components/Score';
+import Score from './Components/Scorecard';
 
 class App extends Component {
 
