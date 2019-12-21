@@ -2,7 +2,8 @@ import React from "react";
 
 function Thumbnail(props) {
     const styles={
-        width:'200px'
+        width:'200px',
+        height:'150px'
     }
   return (
 <img src={props.src} 
